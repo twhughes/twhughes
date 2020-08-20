@@ -1,16 +1,14 @@
-### Hi there 👋
+## Intro 👋
 
 <!--
 **twhughes/twhughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+My name is Tyler W Hughes.  I'm a research scientist specializing in computational physics.
+
+In late 2019, I completed my PhD in applied physics from Stanford University working in the group of [Professor Shanhui Fan](https://web.stanford.edu/group/fan/).  Here I worked on many projects in photonics, including laser-driven particle accelerators on a chip, optical machine learning hardware, and computational inverse design.
+
+Since then I have been developing technology for fast, large scale electromagnetic simulations at [Flexcompute Inc.](https://www.flexcompute.com/).
+
+For more information on my projects, check out my [personal website](twhughes.github.io) or my [google scholar profile](https://scholar.google.com/citations?user=-AHhToYAAAAJ&hl=en)
+
