@@ -12,3 +12,8 @@ Since then I have been developing technology for fast, large scale electromagnet
 
 For more information on my projects, check out my [personal website](twhughes.github.io) or my [google scholar profile](https://scholar.google.com/citations?user=-AHhToYAAAAJ&hl=en)
 
+[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=twhughes&theme=onedark&show_icons=true&hide_rank=true))](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhughes)](https://github.com/anuraghazra/github-readme-stats)
+-->
